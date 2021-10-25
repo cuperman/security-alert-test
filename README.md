@@ -18,3 +18,10 @@ Creating mono-repo with many packages, each runtime and dev dependencies that ha
   - `handlebars@2.0.0`
 - dev dependency:
   - `tar@6.1.0`
+
+### Two
+
+- runtime dependency:
+  - `jquery@3.3.1`
+- dev dependency:
+  - `lodash@4.17.11`
