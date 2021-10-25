@@ -25,3 +25,11 @@ Creating mono-repo with many packages, each runtime and dev dependencies that ha
   - `jquery@3.3.1`
 - dev dependency:
   - `lodash@4.17.11`
+
+### Three
+
+- runtime dependency:
+  - `immer@7.0.7`
+- dev dependency:
+  - `object-path@0.11.4`
+
