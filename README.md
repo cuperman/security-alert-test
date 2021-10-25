@@ -33,3 +33,9 @@ Creating mono-repo with many packages, each runtime and dev dependencies that ha
 - dev dependency:
   - `object-path@0.11.4`
 
+### Four
+
+- runtime dependency:
+  - `highlight.js@9.18.1`
+- dev dependency:
+  - `netmask@1.0.6`
