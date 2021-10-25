@@ -1,5 +1,5 @@
 version: 2
 updates:
-  package-ecosystem: npm
-  directory: /one
-  schedule.interval: daily
+  - package-ecosystem: npm
+    directory: /one
+    schedule.interval: daily
