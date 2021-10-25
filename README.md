@@ -46,3 +46,10 @@ Creating mono-repo with many packages, each runtime and dev dependencies that ha
   - `axios@0.19.2`
 - dev dependency:
   - `elliptic@6.5.2`
+
+### Six
+
+- runtime dependency:
+  - `serialize-javascript@1.9.1`
+- dev dependency:
+  - `moment@2.0.0`
