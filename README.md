@@ -53,3 +53,10 @@ Creating mono-repo with many packages, each runtime and dev dependencies that ha
   - `serialize-javascript@1.9.1`
 - dev dependency:
   - `moment@2.0.0`
+
+### Seven
+
+- runtime dependency:
+  - `js-yaml@3.6.1`
+- dev dependency:
+  - `url-parse@1.4.7`
