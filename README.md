@@ -39,3 +39,10 @@ Creating mono-repo with many packages, each runtime and dev dependencies that ha
   - `highlight.js@9.18.1`
 - dev dependency:
   - `netmask@1.0.6`
+
+### Five
+
+- runtime dependency:
+  - `axios@0.19.2`
+- dev dependency:
+  - `elliptic@6.5.2`
