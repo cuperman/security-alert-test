@@ -4,7 +4,7 @@ Testing Github security alerts capabilities and configuration
 
 ## Open questions
 
-- How many packages does Github support?
+- How many packages does Github support? - 20 [reference](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/troubleshooting-the-detection-of-vulnerable-dependencies)
 - If more packages exist than are supported, can we specify which to scan?
 - Can we differentiate runtime dependencies from dev dependencies?
 
